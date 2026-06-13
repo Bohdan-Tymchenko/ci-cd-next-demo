@@ -8,7 +8,7 @@ export default function Home() {
     <main className="flex flex-1 flex-col gap-6 p-6 sm:p-10">
       <header className="flex flex-col gap-2">
         <h1 className="text-2xl font-bold sm:text-3xl">
-          Bohdan Tymchenko 🚀
+          Bohdan Tymchenko&apos;s space 🚀
         </h1>
         <div className="w-fit mt-4 gap-5 flex sm:flex-row flex-col">
           <a
