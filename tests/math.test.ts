@@ -10,6 +10,9 @@ describe("math", () => {
     it("should multiply two numbers", () => {
         expect(1 * 1).toBe(1);
     });
+    it("should multiply two numbers", () => {
+        expect(1 * 1).toBe(1);
+    });
     it("should divide two numbers", () => {
         expect(1 / 1).toBe(1);
     });
