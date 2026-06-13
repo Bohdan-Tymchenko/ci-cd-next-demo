@@ -6,6 +6,8 @@ const CV_FILE = "/Bohdan_Tymchenko_CV.pdf";
 export default function Home() {
   return (
     <main className="flex flex-1 flex-col gap-6 p-6 sm:p-10">
+      <h1>Environment</h1>
+      <p>{process.env.NEXT_PUBLIC_APP_ENV}</p>
       <header className="flex flex-col gap-2">
         <h1 className="text-2xl font-bold sm:text-3xl">
           Bohdan Tymchenko 🚀
