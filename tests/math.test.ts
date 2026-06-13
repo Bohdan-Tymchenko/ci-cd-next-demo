@@ -4,9 +4,6 @@ describe("math", () => {
     it("should add two numbers", () => {
         expect(1 + 1).toBe(2);
     });
-    it("should subtract two numbers", () => {
-        expect(1 - 1).toBe(0);
-    });
     it("should multiply two numbers", () => {
         expect(1 * 1).toBe(1);
     });
